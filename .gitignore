@@ -4,3 +4,9 @@ __pycache__/
 instance/*.db
 instance/uploads/
 instance/temp_downloads/
+.venv/
+.pytest_cache/
+backup/
+quant-main/
+git/
+liboqs_extracted/
